@@ -66,10 +66,6 @@ if image_features:
 else:
     print("No valid image features found. Please check your dataset.")
 
-
-
-
-
     
 
 # Gradio version
