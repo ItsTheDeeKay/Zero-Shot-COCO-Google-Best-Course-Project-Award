@@ -1,0 +1,10 @@
+torch
+glob2
+numpy
+Pillow
+transformers
+scikit-learn
+PyQt5==5.15.9
+PyQtWebEngine==5.15.6
+spyder==5.4.1
+gradio==3.34.0
