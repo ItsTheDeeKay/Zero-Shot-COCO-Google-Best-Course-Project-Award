@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./teaser/Img_retrieval.gif" alt="Your GIF description">
+</div>
+
 ![CSE 676 Proposal_page-0001](https://github.com/ItsTheDeeKay/AUGMENTify-using-GAN/assets/113076076/299c3885-6f61-4fa5-9558-cb1a5c03ac6e)
 ![CSE 676 Proposal_page-0002](https://github.com/ItsTheDeeKay/AUGMENTify-using-GAN/assets/113076076/d99267d9-a588-4cd8-96d0-7ba61b7fe722)
 ![CSE 676 Proposal_page-0003](https://github.com/ItsTheDeeKay/AUGMENTify-using-GAN/assets/113076076/68777fec-03e7-4060-8440-e9311d91e45a)
