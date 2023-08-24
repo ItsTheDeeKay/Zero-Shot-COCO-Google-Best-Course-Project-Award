@@ -3,7 +3,7 @@
 </div>
 
 # Hugging Face Demo
-[![Zero-Shot-Image-Retrieval](https://github.com/ItsTheDeeKay/Zero-Shot-Image-Retrieval/assets/113076076/7a9d83dd-f102-416c-95c4-1376b7e894c9)](https://huggingface.co/spaces/DeeKay93/Zero-Shot-Image-Retrieval)
+[![Zero-Shot-Image-Retrieval](./teaser/hf.jpeg)](https://huggingface.co/spaces/DeeKay93/Zero-Shot-Image-Retrieval)
 
 ![CSE 676 Proposal_page-0001](https://github.com/ItsTheDeeKay/AUGMENTify-using-GAN/assets/113076076/299c3885-6f61-4fa5-9558-cb1a5c03ac6e)
 ![CSE 676 Proposal_page-0002](https://github.com/ItsTheDeeKay/AUGMENTify-using-GAN/assets/113076076/d99267d9-a588-4cd8-96d0-7ba61b7fe722)
